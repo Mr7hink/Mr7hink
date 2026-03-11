@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Simon
 
-<!--
-**Mr7hink/Mr7hink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer interested in system design, backend development and data analysis.
 
-Here are some ideas to get you started:
+## Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Wizorio** – Grid-based strategy and automation game (Unity / C#)
+
+## Interests
+
+- Software architecture
+- Backend development
+- Data analysis
+- Scalable systems
